@@ -14,3 +14,7 @@ From "Manage Libraries" install,<br>
 - M5Stack
 
 ![a](https://i.imgur.com/mCfnhZN.png)
+
+# Tip me
+If you like this project and might even use or extend it, why not send some tip love!
+https://paywall.link/to/f4e4e
